@@ -3,4 +3,4 @@
 <img width="455" alt="orderReceipt" src="https://github.com/LeeKaYip/PosSystem-C-/assets/134273037/6a4aa23e-396f-4bee-8f50-e340c10beceb">
 ![ArrInsta](https://github.com/LeeKaYip/PosSystem-C-/assets/134273037/10d6f665-81b5-4276-9521-adbfd7e19cf2)
 
-Here is the Demo video: https://youtu.be/x1MNmdVL-u0
+# Here is the Demo video: https://youtu.be/x1MNmdVL-u0
